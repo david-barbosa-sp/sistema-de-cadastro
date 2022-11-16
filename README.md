@@ -1,9 +1,8 @@
-<h1 align="center">Sistema de Cadastro</h1>
+# sistema-de-cadastro
 
-> :construction: Projeto em construção :construction:
-
+> status do projeto: em desenvolvimento
 
 para rodar esse projeto na sua máquina, por favor digite:
 ```
-  node app.js
+  npm install react
 ```
